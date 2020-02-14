@@ -7,7 +7,6 @@ git cherry-pick
 4、切换分支拉取代码（wyl为远程代码仓库分支名）
 　　git fetch origin wyl（更新分支最新状态）
     git checkout -b wyl (切换分支)
-    git pull origin wyl (拉去分支）
 　　git pull origin wyl（拉取代码）
    
 
