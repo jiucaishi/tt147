@@ -1,10 +1,10 @@
-git stash
+ï»¿git stash
 git cherry-pick
-1¡¢±¾µØ´´½¨ÎÄ¼ş¼ĞÓÃÓÚ´æ·ÅÀ­È¡µÄ´úÂë
-2¡¢Ö´ĞĞgit init³õÊ¼»¯ÎÄ¼ş¼Ğ
-3¡¢ÓëÔ¶³Ì´úÂë²Ö¿â½¨Á¢Á¬½Ó
-¡¡¡¡git remote add origin git@github.com.wuylin/nothing.git(Ô¶³Ì´úÂë²Ö¿âÁ´½ÓµØÖ·)
-4¡¢ÇĞ»»·ÖÖ§À­È¡´úÂë£¨wylÎªÔ¶³Ì´úÂë²Ö¿â·ÖÖ§Ãû£©
-¡¡¡¡git fetch origin wyl£¨¸üĞÂ·ÖÖ§×îĞÂ×´Ì¬£©
-¡¡¡¡git checkout -b wyl£¨ÇĞ»»·ÖÖ§£©
-¡¡¡¡git pull origin wyl£¨À­È¡´úÂë£©
+1ã€æœ¬åœ°åˆ›å»ºæ–‡ä»¶å¤¹ç”¨äºå­˜æ”¾æ‹‰å–çš„ä»£ç 
+2ã€æ‰§è¡Œgit initåˆå§‹åŒ–æ–‡ä»¶å¤¹
+3ã€ä¸è¿œç¨‹ä»£ç ä»“åº“å»ºç«‹è¿æ¥
+ã€€ã€€git remote add origin git@github.com.wuylin/nothing.git(è¿œç¨‹ä»£ç ä»“åº“é“¾æ¥åœ°å€)
+4ã€åˆ‡æ¢åˆ†æ”¯æ‹‰å–ä»£ç ï¼ˆwylä¸ºè¿œç¨‹ä»£ç ä»“åº“åˆ†æ”¯åï¼‰
+ã€€ã€€git fetch origin wylï¼ˆæ›´æ–°åˆ†æ”¯æœ€æ–°çŠ¶æ€ï¼‰
+ã€€ã€€git checkout -b wylï¼ˆåˆ‡æ¢åˆ†æ”¯ï¼‰
+ã€€ã€€git pull origin wylï¼ˆæ‹‰å–ä»£ç ï¼‰
