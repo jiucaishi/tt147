@@ -1,2 +1,10 @@
 git stash
 git cherry-pick
+1、本地创建文件夹用于存放拉取的代码
+2、执行git init初始化文件夹
+3、与远程代码仓库建立连接
+　　git remote add origin git@github.com.wuylin/nothing.git(远程代码仓库链接地址)
+4、切换分支拉取代码（wyl为远程代码仓库分支名）
+　　git fetch origin wyl（更新分支最新状态）
+　　git checkout -b wyl（切换分支）
+　　git pull origin wyl（拉取代码）
