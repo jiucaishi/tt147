@@ -1,12 +1,3 @@
 ﻿111
 222
 333
-
-aaa
-bbb
-ccc
-ddd
-eee
-fff
-hhh
-ggg
